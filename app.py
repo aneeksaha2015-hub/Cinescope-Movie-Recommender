@@ -7,7 +7,7 @@ import time
 # ─────────────────────────────────────────────
 # CONFIG
 # ─────────────────────────────────────────────
-API_BASE = "https://movie-rec-466x.onrender.com"
+API_BASE = "https://cinescope-movie-recommender.onrender.com"
 TMDB_IMG = "https://image.tmdb.org/t/p/w500"
 
 st.set_page_config(
